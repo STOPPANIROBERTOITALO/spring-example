@@ -1,4 +1,4 @@
-package net.guides.springboot2;
+package it.rs.boot.test;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
